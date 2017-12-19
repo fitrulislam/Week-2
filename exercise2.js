@@ -32,7 +32,7 @@ var peran = 'Mage';
 
 if (nama == 'Aurora') {
   console.log('Selamat datang di dunia Proxytia, '+ nama);
-  console.log('Halo'+ peran + ' ' + nama + ', ciptakan keajaiban yang akan membantu kemenanganmu!');
+  console.log('Halo '+ peran + ' ' + nama + ', ciptakan keajaiban yang akan membantu kemenanganmu!');
 } else {
   console.log ('Ganti game aja');
 }
