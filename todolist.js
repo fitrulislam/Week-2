@@ -44,3 +44,5 @@ var kegiatan = ['tidur', 'ibadah', 'makan', 'Mandi', 'ngoding', 'Bantu-bantu di 
 console.log(toDoList(kegiatan));
 
 console.log('nb: Jangan lupa main game kalo ada waktu kosong tiap selese satu kegiatan :v');
+
+//pseudocode ada di repository, namanya todolist.md
